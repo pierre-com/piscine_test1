@@ -5,7 +5,7 @@
   {
   int g=2;
   std::cout << g;
-  
+  //////modifie sur git
   return 0;
   }
   
